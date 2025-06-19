@@ -1,0 +1,1 @@
+This project implements a basic market-making strategy on Level 2 (L2) order book data. It is structured as a Python notebook and designed to simulate quoting, execution, and inventory management in a high-frequency trading environment. The simulator aims to help understand and evaluate simple market-making behaviors under realistic market conditions.
