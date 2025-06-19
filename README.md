@@ -13,3 +13,7 @@ The historical order book data used in this project was downloaded and formatted
   - **Gaussian Slippage:** When trades are executed, the price is adjusted with a small random noise to reflect market slippage and non-instant execution.
   
   As expected, this leads to more volatile PnL outcomes, and emphasizes the risk of non-execution and price impact. 
+
+#### Credits
+:star: [khushi-2653](https://github.com/khushi-2653)
+:star: [Emminence23](https://github.com/Emminence23)
