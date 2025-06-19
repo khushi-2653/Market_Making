@@ -7,7 +7,7 @@ The historical order book data used in this project was downloaded and formatted
 - **`Market_Making_final.ipynb`**  
   Contains the **base version** of the simulator. Quotes are placed deterministically at spread-adjusted prices, and fills are assumed to happen immediately when a price match occurs. Useful for understanding core logic: quoting, execution, inventory management, and mark-to-market PnL tracking.
 
-- **`Realistic.ipynb`**  
+- **`Realistic_Market_Making.ipynb`**  
   Extends the base simulator with two realism enhancements:
   - **Execution Probability:** Not all limit orders are assumed to be filled. Each order has a probabilistic chance of execution, simulating queue position and competition.
   - **Gaussian Slippage:** When trades are executed, the price is adjusted with a small random noise to reflect market slippage and non-instant execution.
