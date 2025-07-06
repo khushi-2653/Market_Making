@@ -14,7 +14,3 @@ The historical order book data used in this project was downloaded and formatted
   
   As expected, this leads to more volatile PnL outcomes, and emphasizes the risk of non-execution and price impact. 
 
-#### Credits
-:star: [khushi-2653](https://github.com/khushi-2653)
-
-:star: [Emminence23](https://github.com/Emminence23)
